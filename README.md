@@ -2,8 +2,8 @@
 *KLASIFIKASI OBJEKTIVITAS ARTIKEL OLAHRAGA MENGGUNAKAN LOGISTIC REGRESSION, RANDOM FOREST DAN MULTILAYER PERCEPTRON*
 
 ## 👤 Informasi
-- **Nama:** [Ikbal Dzakwan]  
-- **Repo:** [...]  
+- **Nama:** Ikbal Dzakwan  
+- **Repo:** https://github.com/ikbaldzakwann/234311043_UAS_DataScience  
 - **Video:** [...]  
 
 ---

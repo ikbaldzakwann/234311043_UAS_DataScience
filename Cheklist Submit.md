@@ -12,13 +12,13 @@ Sebelum mengumpulkan proyek, pastikan:
 ### **GitHub Repository:**
 - [✔️ ] Kode dapat dijalankan (tested)
 - [✔️ ] Ada requirements.txt atau environment.yml
-- [ ] Ada  README.md dengan cara menjalankan
-- [ ] Folder terstruktur (src/, data/, models/, notebooks/)
-- [ ] Ada file .gitignore (jangan upload data besar)
-- [ ] Repository bersifat PUBLIC
+- [✔️ ] Ada  README.md dengan cara menjalankan
+- [✔️ ] Folder terstruktur (src/, data/, models/, notebooks/)
+- [✔️ ] Ada file .gitignore (jangan upload data besar)
+- [✔️ ] Repository bersifat PUBLIC
 
 ### **Kode:**
-- [ ] Model deep learning berhasil training
-- [ ] Ada print/log hasil evaluasi
-- [ ] Kode ada komentar pada bagian penting
-- [ ] Tidak ada hardcoded path (gunakan relative path)
+- [✔️ ] Model deep learning berhasil training
+- [✔️ ] Ada print/log hasil evaluasi
+- [✔️ ] Kode ada komentar pada bagian penting
+- [✔️ ] Tidak ada hardcoded path (gunakan relative path)

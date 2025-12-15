@@ -1,8 +1,8 @@
 # 📘 Judul Proyek
-Klasifikasi Objektivitas Artikel Olahraga Menggunakan Machine Learning dan Deep Learning
+*KLASIFIKASI OBJEKTIVITAS ARTIKEL OLAHRAGA MENGGUNAKAN LOGISTIC REGRESSION, RANDOM FOREST DAN MULTILAYER PERCEPTRON*
 
 ## 👤 Informasi
-- **Nama:** [...]  
+- **Nama:** [Ikbal Dzakwan]  
 - **Repo:** [...]  
 - **Video:** [...]  
 

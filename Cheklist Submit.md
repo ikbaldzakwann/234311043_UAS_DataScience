@@ -2,16 +2,16 @@
 Gunakaan dataset mini projek sebelumnya
 Sebelum mengumpulkan proyek, pastikan:
 ### **Laporan (PDF/Word/Markdown):**
-- [ ✅] Semua section terisi lengkap
-- [ ] Ada 3 model yang dijelaskan
-- [ ] Ada visualisasi EDA (min. 3)
-- [ ] Ada hasil evaluasi ketiga model
-- [ ] Ada link GitHub yang dapat diakses
-- [ ] Ada link video penjeloasan proyek
+- [✔️ ] Semua section terisi lengkap
+- [✔️ ] Ada 3 model yang dijelaskan
+- [✔️ ] Ada visualisasi EDA (min. 3)
+- [✔️ ] Ada hasil evaluasi ketiga model
+- [✔️ ] Ada link GitHub yang dapat diakses
+- [✔️ ] Ada link video penjeloasan proyek
 
 ### **GitHub Repository:**
-- [ ] Kode dapat dijalankan (tested)
-- [ ] Ada requirements.txt atau environment.yml
+- [✔️ ] Kode dapat dijalankan (tested)
+- [✔️ ] Ada requirements.txt atau environment.yml
 - [ ] Ada  README.md dengan cara menjalankan
 - [ ] Folder terstruktur (src/, data/, models/, notebooks/)
 - [ ] Ada file .gitignore (jangan upload data besar)

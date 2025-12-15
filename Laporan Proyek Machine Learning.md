@@ -3,13 +3,13 @@
 **Judul Proyek:**  
 [(Contoh: "Klasifikasi Penyakit Daun Menggunakan CNN", "Prediksi Harga Rumah dengan Machine Learning", "Analisis Sentimen Ulasan Produk")]
 
-**Nama Mahasiswa:** [Nama Lengkap]  
-**NIM:** [Nomor Induk Mahasiswa]  
+**Nama Mahasiswa:** Ikbal Dzakwan  
+**NIM:** 234311043  
 **Program Studi:** [Teknologi Informasi / Rekayasa Perangkat Lunak]  
-**Mata Kuliah:** [Nama Mata Kuliah]  
-**Dosen Pengampu:** [Nama Dosen]  
-**Tahun Akademik:** [Tahun/Semester]
-**Link GitHub Repository:** [URL Repository]
+**Mata Kuliah:** Data Science  
+**Dosen Pengampu:** Gus Nanang Syaifuddin  
+**Tahun Akademik:** 2025/5
+**Link GitHub Repository:** https://github.com/ikbaldzakwann/234311043_UAS_DataScience
 **Link Video Pembahasan:** [URL Repository]
 
 ---

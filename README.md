@@ -18,16 +18,16 @@
 
 # 2. 📄 Problem & Goals
 **Problem Statements:**  
-- [ Diperlukan model klasifikasi untuk membedakan artikel olahraga objektif dan subjektif secara otomatis.]
-- [ Data teks memiliki pola yang kompleks dan non-linear sehingga model linear sederhana belum tentu optimal.]
-- [ Dataset memiliki banyak fitur numerik hasil ekstraksi teks sehingga diperlukan preprocessing untuk menghindari noise dan redundansi.]
-- [ Diperlukan perbandingan performa antara model baseline, machine learning, dan deep learning.]  
+-  Diperlukan model klasifikasi untuk membedakan artikel olahraga objektif dan subjektif secara otomatis.
+-  Data teks memiliki pola yang kompleks dan non-linear sehingga model linear sederhana belum tentu optimal.
+-  Dataset memiliki banyak fitur numerik hasil ekstraksi teks sehingga diperlukan preprocessing untuk menghindari noise dan redundansi.
+-  Diperlukan perbandingan performa antara model baseline, machine learning, dan deep learning.
 
 **Goals:**  
-- [Membangun sistem klasifikasi objektivitas artikel olahraga menggunakan Logistic Regression, Random Forest, dan MLP.]  
-- [Membandingkan performa ketiga model menggunakan metrik evaluasi klasifikasi.]
-- [Menentukan model terbaik berdasarkan performa data uji.]
-- [Menyediakan pipeline analisis yang reproducible.]  
+- Membangun sistem klasifikasi objektivitas artikel olahraga menggunakan Logistic Regression, Random Forest, dan MLP. 
+- Membandingkan performa ketiga model menggunakan metrik evaluasi klasifikasi.
+- Menentukan model terbaik berdasarkan performa data uji.
+- Menyediakan pipeline analisis yang reproducible.  
 
 ---
 ## 📁 Struktur Folder
@@ -56,9 +56,9 @@ project/
 ---
 
 # 3. 📊 Dataset
-- **Sumber:** [ UCI Machine Learning Repository – Sports Articles for Objectivity Analysis]
-- **Jumlah Data:** [Jumlah Data: 1994 baris, 127 fitur numerik, dan 1 target ]
-- **Tipe:** [Tabular (numerik)]  
+- **Sumber:**  UCI Machine Learning Repository – Sports Articles for Objectivity Analysis
+- **Jumlah Data:** Jumlah Data: 1994 baris, 127 fitur numerik, dan 1 target 
+- **Tipe:** Tabular (numerik)  
 
 ### Fitur Utama
 Dataset memiliki 127 fitur numerik hasil ekstraksi teks.
@@ -90,9 +90,9 @@ Pada proyek ini digunakan 10 fitur numerik utama yang paling relevan.
 ---
 
 # 5. 🤖 Modeling
-- **Model 1 – Baseline:** [Logistic Regression]  
-- **Model 2 – Advanced ML:** [Random Forest]  
-- **Model 3 – Deep Learning:** [Multilayer Perceptron (MLP)]  
+- **Model 1 – Baseline:** Logistic Regression  
+- **Model 2 – Advanced ML:** Random Forest
+- **Model 3 – Deep Learning:** Multilayer Perceptron (MLP)  
 
 ---
 
@@ -110,7 +110,7 @@ Accuracy, Precision, Recall, dan F1-score
 ---
 
 # 7. 🏁 Kesimpulan
-- Model terbaik: [MLP (Deep Learning)]  
+- Model terbaik: MLP (Deep Learning)  
 - Alasan: -Mampu menangkap pola non-linear yang lebih kompleks
            -Memberikan performa evaluasi tertinggi  
 - Insight penting: - Fitur linguistik seperti jumlah kata dan polaritas memiliki pengaruh besar

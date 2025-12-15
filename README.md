@@ -1,5 +1,5 @@
 # 📘 Judul Proyek
-*(Isi judul proyek Anda di sini)*
+Klasifikasi Objektivitas Artikel Olahraga Menggunakan Machine Learning dan Deep Learning
 
 ## 👤 Informasi
 - **Nama:** [...]  

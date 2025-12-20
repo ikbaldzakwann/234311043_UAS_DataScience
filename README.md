@@ -4,7 +4,7 @@
 ## 👤 Informasi
 - **Nama:** Ikbal Dzakwan  
 - **Repo:** https://github.com/ikbaldzakwann/234311043_UAS_DataScience  
-- **Video:** [...]  
+- **Video:** https://youtu.be/jm-_YbEK3hw 
 
 ---
 

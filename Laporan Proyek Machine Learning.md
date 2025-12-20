@@ -1,7 +1,7 @@
 ## INFORMASI PROYEK
 
 **Judul Proyek:**  
-[(Contoh: "Klasifikasi Penyakit Daun Menggunakan CNN", "Prediksi Harga Rumah dengan Machine Learning", "Analisis Sentimen Ulasan Produk")]
+"Klasifikasi Objektivitas Artikel Olahraga Menggunakan Machine Learning dan Deep Learning"
 
 **Nama Mahasiswa:** Ikbal Dzakwan  
 **NIM:** 234311043  
